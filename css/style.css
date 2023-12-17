@@ -1,0 +1,23 @@
+
+div h1{
+  font-size: 5rem;
+  font-weight: 700;
+  font-family: Impact;
+}
+div p{
+  font-size: 2.1875rem;
+}
+div span{
+  font-size: 2.1875rem;
+  text-align: center;
+}
+div button{
+  font-size: 1.25rem;
+  width: 250px;
+  background-color: blue !important;
+  color: #fff !important;
+  transition: background-color .3s;
+}
+div button:hover{
+  background-color:#008000 !important;
+}
